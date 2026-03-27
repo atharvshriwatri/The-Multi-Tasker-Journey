@@ -1,4 +1,5 @@
 > end of 10th 2026
+
 I consider myself fortunate because, while many individuals focus deeply on a single task, I have often been able to complete multiple tasks alongside my main goals, almost like side quests. No matter how challenging something is, I approach it with determination. And if I encounter something I do not know, I take it as a challenge — I can go completely focused for days and return with a strong understanding of that skill, whether it is Python or anything else.
 One trait that drives me is my competitive mindset. Whenever I see someone performing better than me, my first thought is: “How can they be better than me?” This pushes me to improve and come back stronger.
  I was an average student earlier, but I clearly remember a moment in Grade 10 when a topper joked that I could never even make it into the top 10. That moment became a turning point. In the following class tests, I consistently ranked at the top. For me, it was not just about proving others wrong, but about proving to myself what I was capable of.
