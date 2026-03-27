@@ -1,4 +1,4 @@
->> end of 10th 2026
+> end of 10th 2026
 I consider myself fortunate because, while many individuals focus deeply on a single task, I have often been able to complete multiple tasks alongside my main goals, almost like side quests. No matter how challenging something is, I approach it with determination. And if I encounter something I do not know, I take it as a challenge — I can go completely focused for days and return with a strong understanding of that skill, whether it is Python or anything else.
 One trait that drives me is my competitive mindset. Whenever I see someone performing better than me, my first thought is: “How can they be better than me?” This pushes me to improve and come back stronger.
  I was an average student earlier, but I clearly remember a moment in Grade 10 when a topper joked that I could never even make it into the top 10. That moment became a turning point. In the following class tests, I consistently ranked at the top. For me, it was not just about proving others wrong, but about proving to myself what I was capable of.
@@ -8,7 +8,6 @@ My journey started early. At the age of 4, my parents gifted me a Windows laptop
  As I grew older, my curiosity expanded. In Grade 8, while many of my friends were playing games, I became interested in understanding how they were made. I built simple game clones like Flappy Bird and Temple Run, which further strengthened my interest in technology.
  I later explored social media and became a content creator, earning my first income online. This motivated me even more, and I went on to learn skills such as graphic design, video editing, product advertising, and managing social media pages.
  I have always been inclined towards leadership. My goal has never been only about earning money, but about building, leading, and creating something meaningful with a team. Leadership is one of my strongest qualities.
-
 I also explored trading through paper trading, which introduced me to analytical thinking in financial markets. Around the same time, I learned more about engineering as a career path and realized that I could build a future doing what I truly enjoy.
 
 Eventually, I discovered GitHub — a platform where I can document my journey, showcase my skills, and track my growth over time. This repository is a reflection of everything I have learned and experienced so far.
