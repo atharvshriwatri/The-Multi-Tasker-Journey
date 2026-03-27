@@ -1,4 +1,4 @@
->"This repository documents my journey as a multi-tasker — a journey filled with continuous learning, yearly ups and downs, and the acquisition of new skills"
+>This repository documents my journey as a multi-tasker — a journey filled with continuous learning, yearly ups and downs, and the acquisition of new skills
 >
 > end of 10th 2026
 
