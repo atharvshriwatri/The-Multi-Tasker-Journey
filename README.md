@@ -1,3 +1,5 @@
+>"This repository documents my journey as a multi-tasker — a journey filled with continuous learning, yearly ups and downs, and the acquisition of new skills"
+>
 > end of 10th 2026
 
 I consider myself fortunate because, while many individuals focus deeply on a single task, I have often been able to complete multiple tasks alongside my main goals, almost like side quests. No matter how challenging something is, I approach it with determination. And if I encounter something I do not know, I take it as a challenge — I can go completely focused for days and return with a strong understanding of that skill, whether it is Python or anything else.
