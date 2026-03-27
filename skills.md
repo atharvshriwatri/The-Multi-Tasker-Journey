@@ -8,7 +8,7 @@
 
 | Skill                        | Level        | Started         |
 | ---------------------------- | ------------ | --------------- |
-| Python                       | Beginner     | Grade 10 (2026) |
+| Python                       | intermediate     | Grade 8 (2026) |
 | Game Development (Clones)    | Beginner     | Grade 8         |
 | Software Exploration & Tools | Intermediate | Age 4           |
 
